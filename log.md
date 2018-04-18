@@ -12,7 +12,7 @@
 
 **Today's Progress**: Around 2 hours on Wikipedia Viewer. Prettied up the list with CSS transitions and put in full info.
 
-**Thoughts:** Not as much as I hoped to finish but I have made some progress at least. Frustrated trying to center <ul> on the page.
+**Thoughts:** Not as much as I hoped to finish but I have made some progress at least. Frustrated trying to center unordered list on the page.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
 
