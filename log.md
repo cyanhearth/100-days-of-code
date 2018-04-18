@@ -1,6 +1,6 @@
 ## Log of Round 1 of #100DaysOfCode - done in 2016
 
-### Day 1: Monday 17/04/2018
+### Day 1: Tuesday 17/04/2018
 
 **Today's Progress**: Returned to the FreeCodeCamp project *Build a Wikipedia Viewer*. Fixed the api call so that it now works correctly and display results in a list on the page. Spent around 1.5 hours today.
 
@@ -8,13 +8,13 @@
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
 
-### Day 2: 
+### Day 2: Wednesday 18/04/18
 
-**Today's Progress**: 
+**Today's Progress**: Around 2 hours on Wikipedia Viewer. Prettied up the list with CSS transitions and put in full info.
 
-**Thoughts:** 
+**Thoughts:** Not as much as I hoped to finish but I have made some progress at least. Frustrated trying to center <ul> on the page.
 
-**Link to work:** 
+**Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
 
 ### Day 3: 
 
