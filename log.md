@@ -24,13 +24,13 @@
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
 
-### Day 4: 
+### Day 4: Friday 20/04/18
 
-**Today's Progress**: 
+**Today's Progress**: More Wikipedia Viewer. PLayed with CSS, and trying to change behaviour for mobile.
 
-**Thoughts:** 
+**Thoughts:** Hit a wall and now I'm confusing myself a bit. Time to leave it for today.
 
-**Link to work:** 
+**Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
 
 ### Day 5: 
 
