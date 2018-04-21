@@ -1,4 +1,4 @@
-## Log of Round 1 of #100DaysOfCode - done in 2016
+## Log of Round 1 of #100DaysOfCode - done in 2018
 
 ### Day 1: Tuesday 17/04/18
 
@@ -26,16 +26,16 @@
 
 ### Day 4: Friday 20/04/18
 
-**Today's Progress**: More Wikipedia Viewer. PLayed with CSS, and trying to change behaviour for mobile.
+**Today's Progress**: More Wikipedia Viewer. Played with CSS, and trying to change behaviour for mobile.
 
 **Thoughts:** Hit a wall and now I'm confusing myself a bit. Time to leave it for today.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
 
-### Day 5: 
+### Day 5: Saturday 21/04/18
 
-**Today's Progress**: 
+**Today's Progress**: Finished behaviour for mobile screens, so now the css transition will show before you can follow the link, rather than the previous behaviour where the link would open in a new tab before the description is shown.
 
-**Thoughts:** 
+**Thoughts:** Glad I made time to work on this after a long day. Pretty happy with the result and I think I'm ready to move onto something else.
 
-**Link to work:** 
+**Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
