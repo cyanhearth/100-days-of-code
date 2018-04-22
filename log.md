@@ -39,3 +39,11 @@
 **Thoughts:** Glad I made time to work on this after a long day. Pretty happy with the result and I think I'm ready to move onto something else.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/cyanhearth/pen/KaGGLz?editors=0110)
+
+### Day 6: Sunday 22/04/18
+
+**Today's Progress**: Made a start on Udemy course "Javascript: Understanding the Weird Parts"
+
+**Thoughts:** Seems like it will be useful to get a deeper understanding of the language.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
