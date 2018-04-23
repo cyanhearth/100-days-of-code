@@ -47,3 +47,11 @@
 **Thoughts:** Seems like it will be useful to get a deeper understanding of the language.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 7: Monday 23/04/18
+
+**Today's Progress**: Completed 'Execution Contexts and Lexical Environments' section of course.
+
+**Thoughts:** One week completed. Feels good.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
