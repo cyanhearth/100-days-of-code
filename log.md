@@ -55,3 +55,11 @@
 **Thoughts:** One week completed. Feels good.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 8: Tuesday 24/04/18
+
+**Today's Progress**: Started work on freecodecamp project with Twitch.tv JSON api.
+
+**Thoughts:** Nearly forgot to get ready for work.
+
+**Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
