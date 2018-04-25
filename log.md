@@ -63,3 +63,11 @@
 **Thoughts:** Nearly forgot to get ready for work.
 
 **Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
+
+### Day 9: Wednesday 25/04/18
+
+**Today's Progress**: More work on Twitch project. Getting correct data from api and have a layout now onscreen.
+
+**Thoughts:** Still going strong.
+
+**Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
