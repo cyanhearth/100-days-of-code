@@ -71,3 +71,11 @@
 **Thoughts:** Still going strong.
 
 **Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
+
+### Day 10: Thursday 26/04/18
+
+**Today's Progress**: Done with Twitch.tv project. Made it look better, and added ability to add or remove streamers.
+
+**Thoughts:** Beginning to look forward to coding again.
+
+**Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
