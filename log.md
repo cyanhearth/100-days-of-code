@@ -79,3 +79,11 @@
 **Thoughts:** Beginning to look forward to coding again.
 
 **Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
+
+### Day 11: Friday 27/04/18
+
+**Today's Progress**: Began working through Intermediate Algorithm Scripting on freecodecamp. Trying to make use of functional programming features such as filter function. Had difficulty figuring out why .every() worked in returning the correct value but .forEach() wouldn't. Think I have it figured now but need more work on understanding scope in Javascript.
+
+**Thoughts:** Need to stop being hard on myself if something doesn't click right away / I don't immediately find the solution. Part of learning is failing and trying another way.
+
+**Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
