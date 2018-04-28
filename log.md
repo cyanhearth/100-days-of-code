@@ -87,3 +87,11 @@
 **Thoughts:** Need to stop being hard on myself if something doesn't click right away / I don't immediately find the solution. Part of learning is failing and trying another way.
 
 **Link to work:** [Use the Twitch.tv JSON Api](https://codepen.io/cyanhearth/pen/KRzXRb?editors=1111)
+
+### Day 12: Saturday 28/04/18
+
+**Today's Progress**: More Intermediate Algorithm Scripting, was more successful today. Got through 5 problems compared to yesterdays 2. 
+
+**Thoughts:** Had a bad day yesterday. Still clearing out the cobwebs from being inactive for a while. Will get better.
+
+**Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/)
