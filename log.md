@@ -95,3 +95,11 @@
 **Thoughts:** Had a bad day yesterday. Still clearing out the cobwebs from being inactive for a while. Will get better.
 
 **Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/)
+
+### Day 13: Sunday 29/04/18
+
+**Today's Progress**: Finished 'Types and Operators' section of Javascript: Understanding the Weird Parts. 
+
+**Thoughts:** Good information on type coercion in Javascript. Feel like something clicked this time.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
