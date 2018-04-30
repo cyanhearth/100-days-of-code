@@ -103,3 +103,11 @@
 **Thoughts:** Good information on type coercion in Javascript. Feel like something clicked this time.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 14: Monday 30/04/18
+
+**Today's Progress**: More Intermediate Algorithm Scripting. Enjoying working out the problems using functional programming techniques (functions like filter, reduce, map etc.).  
+
+**Thoughts:** Getting to grips with functional programming. 2 weeks down. I think I didn't really expect to get this far, so this is awesome.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
