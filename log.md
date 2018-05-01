@@ -110,4 +110,12 @@
 
 **Thoughts:** Getting to grips with functional programming. 2 weeks down. I think I didn't really expect to get this far, so this is awesome.
 
-**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+**Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/)
+
+### Day 15: Tuesday 01/05/18
+
+**Today's Progress**: More Intermediate Algorithm Scripting.  
+
+**Thoughts:** Tougher going today. Tired.
+
+**Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/)
