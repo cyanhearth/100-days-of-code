@@ -119,3 +119,11 @@
 **Thoughts:** Tougher going today. Tired.
 
 **Link to work:** [Intermediate Algorithm Scripting](https://www.freecodecamp.org/challenges/)
+
+### Day 16: Wednesday 02/05/18
+
+**Today's Progress**: Finished Intermediate Algorithm Scripting and moved onto advanced. First problem involved matching phone numbers with regular expressions. Tough problem. Worked through tutorials on regexone.com 
+
+**Thoughts:** Need to learn regular expressions much more thoroughgly.
+
+**Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/)
