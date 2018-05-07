@@ -127,3 +127,27 @@
 **Thoughts:** Need to learn regular expressions much more thoroughgly.
 
 **Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/)
+
+### Day 17 - 19: Thursday 03/05/18 - Saturday 05/05/18
+
+**Today's Progress**: Kept working through freecodecamp problems. Not as much done with wedding reception and brother visiting.
+
+**Thoughts:** Turning up is half the battle.
+
+**Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/)
+
+### Day 20: Sunday 06/05/18
+
+**Today's Progress**: Spent an hour on Objects and Functions section of Javascript course.
+
+**Thoughts:** Good to get clarification and depth of knowledge on familiar concepts.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 21: Monday 07/05/18
+
+**Today's Progress**: Finished Exact Change and Inventory Update problems on freecodecamp.
+
+**Thoughts:** Had a bad day today. One of those days where I found it hard to concentrate and wrap my head around the problem.
+
+**Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/)
