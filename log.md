@@ -130,7 +130,7 @@
 
 ### Day 17 - 19: Thursday 03/05/18 - Saturday 05/05/18
 
-**Today's Progress**: Kept working through freecodecamp problems. Not as much done with wedding reception and brother visiting.
+**Today's Progress**: Kept working through freecodecamp problems. Put time into learning regular expressions on Thursday by finishing problems on regexone.com. Not as much done with wedding reception and brother visiting.
 
 **Thoughts:** Turning up is half the battle.
 
