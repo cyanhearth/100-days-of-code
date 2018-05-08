@@ -151,3 +151,11 @@
 **Thoughts:** Had a bad day today. One of those days where I found it hard to concentrate and wrap my head around the problem.
 
 **Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/)
+
+### Day 22: Monday 08/05/18
+
+**Today's Progress**: An hour on Udemy course.
+
+**Thoughts:** Basically just to keep the streak going. Planning on doing much more tomorrow.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
