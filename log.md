@@ -152,10 +152,18 @@
 
 **Link to work:** [Advanced Algorithm Scripting](https://www.freecodecamp.org/challenges/)
 
-### Day 22: Monday 08/05/18
+### Day 22: Tuesday 08/05/18
 
 **Today's Progress**: An hour on Udemy course.
 
 **Thoughts:** Basically just to keep the streak going. Planning on doing much more tomorrow.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 23: Wednesday 09/05/18
+
+**Today's Progress**: Final 4 problems on Advanced Algorithm Scripting done and made a start to the Javascript Calculator project. Got a calculate function already ~~but does not follow proper order of operations yet.~~ now follows order of operations. 
+
+**Thoughts:** Spent a lot more time today and accomplished a lot compared to the last few days. Pleased with today.
+
+**Link to work:** [Javascript Calculator](https://codepen.io/cyanhearth/pen/dedeee?editors=0011)
