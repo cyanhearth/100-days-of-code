@@ -167,3 +167,11 @@
 **Thoughts:** Spent a lot more time today and accomplished a lot compared to the last few days. Pleased with today.
 
 **Link to work:** [Javascript Calculator](https://codepen.io/cyanhearth/pen/dedeee?editors=0011)
+
+### Day 24: Thursday 10/05/18
+
+**Today's Progress**: Completed calculate function and it now evaluates operations in the correct order and properly accounts for nested brackets. Built the calculator display and animated the buttons. Now need to finish implementing onclick behaviour for the buttons.
+
+**Thoughts:** Calculator app is turning out pretty nice. I hoped to finish it before going back to work on Saturday and I think I'm on track to do it.
+
+**Link to work:** [Javascript Calculator](https://codepen.io/cyanhearth/pen/dedeee?editors=0011)
