@@ -175,3 +175,11 @@
 **Thoughts:** Calculator app is turning out pretty nice. I hoped to finish it before going back to work on Saturday and I think I'm on track to do it.
 
 **Link to work:** [Javascript Calculator](https://codepen.io/cyanhearth/pen/dedeee?editors=0011)
+
+### Day 25: Friday 11/05/18
+
+**Today's Progress**: Finished off the calculator. Implemented button behaviour and spent time looking for bugs and edge cases, then dealt with them the best I could.
+
+**Thoughts:** Finishing touches to apps like this are always the most tedious part for me, but I'm quite pleased with the results. I have no doubt that I'll have missed something obvious though!
+
+**Link to work:** [Javascript Calculator](https://codepen.io/cyanhearth/pen/dedeee?editors=0011)
