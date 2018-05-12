@@ -183,3 +183,11 @@
 **Thoughts:** Finishing touches to apps like this are always the most tedious part for me, but I'm quite pleased with the results. I have no doubt that I'll have missed something obvious though!
 
 **Link to work:** [Javascript Calculator](https://codepen.io/cyanhearth/pen/dedeee?editors=0011)
+
+### Day 26: Saturday 12/05/18
+
+**Today's Progress**: Found and fixed a bug in calculator that caused the history to display incorrectly after starting a new calculation with the result of the previous one. Briefly started to plan out the Pomodoro Clock project and signed up for a CSS design course. Other than that spent a short time on Javascript Udemy course before work.
+
+**Thoughts:** Need to better plan my coding time into my day now that I'm back at work.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
