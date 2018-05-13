@@ -191,3 +191,11 @@
 **Thoughts:** Need to better plan my coding time into my day now that I'm back at work.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 27: Sunday 13/05/18
+
+**Today's Progress**: Got an hour of Javascript: Understamding the Weird Parts in before work.
+
+**Thoughts:** Tired and know I won't be able to concentrate for long. Will make up for it tomorrow.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
