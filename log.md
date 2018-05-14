@@ -194,8 +194,16 @@
 
 ### Day 27: Sunday 13/05/18
 
-**Today's Progress**: Got an hour of Javascript: Understamding the Weird Parts in before work.
+**Today's Progress**: Got an hour of Javascript: Understanding the Weird Parts in before work.
 
 **Thoughts:** Tired and know I won't be able to concentrate for long. Will make up for it tomorrow.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 28: Monday 14/05/18
+
+**Today's Progress**: Another hour of Javascript course before work. Forked Calculator to extend it into a scientific calculator. Got familiar with Javascript setInterval function for Pomodoro Clock.
+
+**Thoughts:** Mostly planning work today. Get some more done tomorrow.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
