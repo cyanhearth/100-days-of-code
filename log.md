@@ -207,3 +207,11 @@
 **Thoughts:** Mostly planning work today. Get some more done tomorrow.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 29 - 31: Tuesday 15/05/18 - Thursday 17/05/18
+
+**Today's Progress**: Most time spent on Javascript: Understanding the Weird Parts. Got a good start on Pomodoro Clock today.
+
+**Thoughts:** Will try to go through CSS course concurrently with the Pomodoro Clock as I want it to look impressive.
+
+**Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
