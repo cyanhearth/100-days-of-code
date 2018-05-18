@@ -215,3 +215,11 @@
 **Thoughts:** Will try to go through CSS course concurrently with the Pomodoro Clock as I want it to look impressive.
 
 **Link to work:** [Javascript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)
+
+### Day 32: Friday 18/05/18
+
+**Today's Progress**: Spent too much time setting up Visual Studio Code. Started How to Make Pure CSS Images to Progress With Design-Focused Frontend Development course to get some CSS practice and inspiration for Pomodoro Clock.
+
+**Thoughts:** Can feel my motivation slipping. Need to refocus.
+
+**Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
