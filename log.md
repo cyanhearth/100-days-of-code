@@ -223,3 +223,19 @@
 **Thoughts:** Can feel my motivation slipping. Need to refocus.
 
 **Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
+
+### Day 33: Saturday 19/05/18
+
+**Today's Progress**: Most time spent trying to get Gulp and Sass set up properly with VS Code. Some more video content from CSS images course.
+
+**Thoughts:** Frustrated.
+
+**Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
+
+### Day 34: Monday 21/05/18
+
+**Today's Progress**: Ended up taking a day off so back to it today. Worked out the issue with Gulp (a misplaced gulpfile.js) and fixed it quickly. More time on CSS course and followed through a tutorial making an image of a diamond. Made some of my own changes for practice.
+
+**Thoughts:** I was annoyed at myself for missing a day but looking at the last couple of days it looks like I need to refocus my efforts instead of switching development environments etc on a whim.
+
+**Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
