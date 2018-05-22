@@ -239,3 +239,11 @@
 **Thoughts:** I was annoyed at myself for missing a day but looking at the last couple of days it looks like I need to refocus my efforts instead of switching development environments etc on a whim.
 
 **Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
+
+### Day 35: Tuesday 22/05/18
+
+**Today's Progress**: First chapter of CSS: The Definitive Guide and Intro to CSS Animation section of CSS course. Later followed the functional programming section of JS: Understanding the Weird Parts. Not a lot of coding (apart from following the examples) but lots of information to process.
+
+**Thoughts:** Any exposure each day is better than none at all. Need to stop falling for temptation with these Humble Book Bundles!
+
+**Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
