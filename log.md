@@ -247,3 +247,19 @@
 **Thoughts:** Any exposure each day is better than none at all. Need to stop falling for temptation with these Humble Book Bundles!
 
 **Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
+
+### Day 36: Wednesday 23/05/18
+
+**Today's Progress**: More Pure CSS Images course and small amount of work on Pomodoro Clock.
+
+**Thoughts:** Just enough to keep my hand in.
+
+**Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
+
+### Day 37: Tuesday 24/05/18
+
+**Today's Progress**: CSS Loader tutorial from coding-artist and later got a better-working Pomodoro Clock script. Some work on a basic layout too. Will work on having the clock work correctly before finishing the CSS.
+
+**Thoughts:** Finding it hard to concentrate lately but glad I'm keeping this up.
+
+**Link to work:** [Pomodoro Clock](https://codepen.io/cyanhearth/pen/KRRZyY?editors=1011)
