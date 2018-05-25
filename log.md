@@ -256,10 +256,18 @@
 
 **Link to work:** [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/)
 
-### Day 37: Tuesday 24/05/18
+### Day 37: Thursday 24/05/18
 
 **Today's Progress**: CSS Loader tutorial from coding-artist and later got a better-working Pomodoro Clock script. Some work on a basic layout too. Will work on having the clock work correctly before finishing the CSS.
 
 **Thoughts:** Finding it hard to concentrate lately but glad I'm keeping this up.
+
+**Link to work:** [Pomodoro Clock](https://codepen.io/cyanhearth/pen/KRRZyY?editors=1011)
+
+### Day 38: Friday 25/05/18
+
+**Today's Progress**: Think I'm finished with the Javascript code for Pomodoro Clock. Need to pretty it up with some CSS magic.
+
+**Thoughts:** Had a far better day today. I think because I didn't force it and worked in smaller chunks.
 
 **Link to work:** [Pomodoro Clock](https://codepen.io/cyanhearth/pen/KRRZyY?editors=1011)
